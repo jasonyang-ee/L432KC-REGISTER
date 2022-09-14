@@ -1,0 +1,3 @@
+${PROJ_PATH}/Src/main.c
+${PROJ_PATH}/Src/startup_stm32l432xx.s
+${PROJ_PATH}/Src/system_stm32l4xx.c
